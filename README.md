@@ -1,5 +1,3 @@
-[Netflix Userbase.csv](https://github.com/user-attachments/files/18336950/Netflix.Userbase.csv)# Netflix Dashboard
-
 ## Project Overview
 This project is a dynamic Netflix Dashboard web application designed to visualize and analyze Netflix user data using interactive charts and graphs. The dashboard leverages Flask for backend data handling, amCharts 5 for rendering rich visualizations, and HTML/CSS/JavaScript for the frontend interface.
 
