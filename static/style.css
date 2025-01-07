@@ -1,0 +1,47 @@
+.titleCentre {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bolder;
+  color: rgb(170, 20, 20);
+}
+
+.chart-container {
+  text-align: center; /* Optional: Center the charts horizontally within the container */
+  overflow: auto; /* Clear the float */
+}
+
+#chart2div,
+#chart4div {
+  float: left;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid;
+  border-color: rgb(0, 0, 0);
+  border-radius: 30px;
+  height: 450px;
+  object-fit: contain;
+  margin: 0 10px 10px 0; /* Adjust the margin as needed */
+  width: 690px;
+}
+
+#enrollmentTrendsChart {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid;
+  border-color: rgb(0, 0, 0);
+  border-radius: 30px;
+  width: 1400px;
+  height: 400px;
+  margin: auto;
+  object-fit: contain;
+}
+
+#chart3div {
+  clear: both; /* Clear the float */
+  background-color: rgb(255, 255, 255);
+  border: 2px solid;
+  border-color: rgb(0, 0, 0);
+  border-radius: 30px;
+  width: 1400px;
+  height: 400px;
+  margin: auto;
+  object-fit: contain;
+}
